@@ -1,14 +1,12 @@
-# AI agents and LangChain Expression Language (LCEL)
 langchain>=1.4.7,<2.0.0
 langchain-openai>=1.7.3,<2.0.0
 langgraph>=1.2.18,<2.0.0
 langchain-tavily>=0.2.18,<1.0.0
+tavily-python
 
-# Web scraping and HTML parsing
 beautifulsoup4>=4.14.0,<5.0.0
 requests>=2.32.0,<3.0.0
 lxml>=5.0.0,<7.0.0
 
-# Environment variables and settings
 python-dotenv>=1.0.1,<2.0.0
 pydantic>=2.7.4,<3.0.0
